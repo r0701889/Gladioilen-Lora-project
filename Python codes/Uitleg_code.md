@@ -3,7 +3,7 @@
 In deze map vind men 2 .py bestanden. Eén daarvan dient op de raspberry pi uitgevoert te worden. en één daarvan dient op de server uitgevoert te worden (op de server waar de frontend en backend op staat).
 
 ## Qr+Lora.py
-      Deze code dient op te draaien op de raspberry pi. wat er juist gebeurt in deze code: 
+Deze code dient op te draaien op de raspberry pi. wat er juist gebeurt in deze code: 
         * lijn 1 tot 62: Dit is initialisatie code. Hier zullen we all de gpio poorten een funtie geven, de camera instellen,
           de keys instellen van de the tings network. Deze keys heb je nodig om je raspberry pi te koppelen aan het apparaat dat
           je online hebt aangemaakt.
