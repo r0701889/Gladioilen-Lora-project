@@ -11,7 +11,7 @@ In deze map vind men 2 .py bestanden. Eén daarvan dient op de raspberry pi uitg
         * lijn 78 tot 142: Hier zullen we de foto scannen op een QR-code als de code gelezen is zal het deze 
           code doorsturen via de LoRa module.
         * lijn 147 tot 156: Dit is de main part of de code. Dit houd in dat dit een loop is dat heel de tijd
-          word herhaalt zolang er niks gebeurd. Als men op een knop drukt zal er een interupt in werking komen die de rest van de                   bovenstaande code zal activeren.
+          word herhaalt zolang er niks gebeurd. Als men op een knop drukt zal er een interupt in werking komen die de rest van de   bovenstaande code zal activeren.
 
 ## mqttserver.py
       Deze code zal draaien op de server kant.
