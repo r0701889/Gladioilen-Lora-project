@@ -16,5 +16,6 @@ De log terminal is een raspberry pi met zijn nodige componenten dat ervoor zorgt
   - 2 Pull down weerstanden 10k ohm
   - Adafruit RFM9x LoRa Radio
   - Raspberry pi camera
-  
-  
+
+![Fritzing_40](https://user-images.githubusercontent.com/38457884/75234731-626c7f80-57bb-11ea-82a4-980ed84fb3ce.png)
+
