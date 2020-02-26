@@ -1,6 +1,6 @@
-# Instalation guide
+# Installation guide
 ## Mijn log terminal
-De log terminal is een raspberry pi met zijn nodige componenten dat ervoor zorgt dat de mensen zich hier kunnen aan/af melden. Wanneer iemand zich komt melden zal er via het LoRa netwerk naar de database de registratie worden verstuurd.
+De log terminal is een raspberry pi met zijn nodige componenten dat ervoor zorgt dat de mensen zich hier kunnen aan-/afmelden. Wanneer iemand zich komt melden zal er via het LoRa netwerk een registratie naar de database  worden verstuurd.
   - Raspberry pi (in mijn geval heb ik een raspberry pi 3b+ gebruikt)
   - Jumper kabels
   - RGB led
