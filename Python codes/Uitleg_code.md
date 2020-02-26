@@ -9,7 +9,7 @@ Deze code dient op te draaien op de raspberry pi.Hieronder leg ik de code uit:
  * Lijn 78 tot 142: Hier zullen we de foto scannen op een QR-code als de code gelezen is zal het deze code doorsturen via de LoRa module.
  * Lijn 147 tot 156: Dit is de main part of de code. Dit houd in dat dit een loop is dat heel de tijd word herhaalt zolang er niks gebeurd. Als men op een knop drukt zal er een interupt in werking komen die de rest van de   bovenstaande code zal activeren.
 
-## mqttserver.py
+## Mqttserver.py
 Deze code dient op te draaien op de server kant (waar de frontend en backend op draait) .Hieronder leg ik de code uit: 
  * Lijn 1 tot 7: Dit zijn de initialisatie codes. Hier connecteren we onze code met de MQTT server doormiddel van de app_id en de acces key te definieren.
  * Lijn 9 tot 19: Dit deel van de code word uitgevoert wanneer er nieuwe data op de MQTT server komt. In deze code zorgt men ervoor dat we de bruikbare data uit de message kunnen filteren. Dan gaat hij met deze data naar de backend schrijven.
